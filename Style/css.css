@@ -1,0 +1,91 @@
+Body {
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    background-color: grey;
+    width: 100%;
+}
+header img{
+    width: 10%;
+}
+
+header ul {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    font-size: large;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .cabecalho {
+    grid-area: header;
+}
+
+.lateral {
+    grid-area: aside;
+
+}
+
+.principal {
+    grid-area: main;
+} */
